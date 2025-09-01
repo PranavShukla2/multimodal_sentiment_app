@@ -1,3 +1,3 @@
-jpeg,2,"A positive movivational meme"
-png,1,"A funny neutral meme"
-png,0,"A sad meme about death"
+happy.jpeg,2,"A positive movivational meme"
+neutral.png,1,"A funny neutral meme"
+sad.png,0,"A sad meme about death"
